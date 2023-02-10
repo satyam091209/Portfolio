@@ -1,0 +1,53 @@
+{
+    "experiences": [
+        {
+            "company": "LPU",
+            "link": "/",
+            "title": "Student",
+            "duration": "Aug 2020 - Present",
+            "desc": [
+                " Currently I am currently studying Computer Science & Engineering at Lovely Professional University.",
+                "I completed my schooling from Mount Assisi School, where I had secured 80% in my board exams.",
+                "I have always been passionate about computers and technology since I was a kid.",
+                "I plan to pursue a career in software engineering"
+            ]
+        },
+        {
+            "company": "Chauhan Public School",
+            "link": "/",
+            "title": "Student",
+            "duration": "July 2018 - Aug 2020",
+            "desc": [
+                "I have done my 12th from Chauhan Public School.",
+                "In 12th my subject was physics chemistry and math.",
+                "I have passed my 12th board exam with 70% ."
+            ]
+        },
+        {
+            "company": "Mount Assisi School",
+            "link": "/",
+            "title": "Student",
+            "duration": "June 2002 - Jan 2018",
+            "desc": [
+                "I have done my 10th from Mount Assisi School.",
+                "I have passed my 10th board exam with 80%.",
+                "At that time I have taken part in curricular activities like basketball."
+                
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Restaurant Website (HTML CSS JAVASCRIPT",
+            "desc": "Building a restaurant website requires a lot of skill and knowledge of web development. HTML, CSS, and JavaScript are the three main coding languages used in website development. HTML is used to create the basic structure of the website, CSS is used to add styling and design elements, and JavaScript is used to add interactivity and dynamic elements to the website.",
+            "skills": [],
+            "link": ""
+        },
+        {
+            "title":"Tic Tae Toe game",
+            "desc": "This game is a classic two-player game in which each player takes turns placing either an X or an O on a 3x3 grid. The player who manages to place three of their marks in a horizontal, vertical or diagonal row wins the game.",
+            "skills": [],
+            "link": ""
+        }
+    ]
+}
