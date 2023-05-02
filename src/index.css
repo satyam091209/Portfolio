@@ -3,7 +3,12 @@ body {
   font-family: var(--font-mono);
   /* background-color: var(--navy); */
   color: var(--light-slate);
-  background-image: url("https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png");
+  background: url("/public/images/bk.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
 }
 
 html {
@@ -40,4 +45,7 @@ a {
   --fz-xl: 20px;
   --fz-xxl: 22px;
   --fz-heading: 32px;
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkHwKtHSs2FR_gsJtAHiGUrmS281-3TjVYRga--Ov91WtQ0XwiTSrLygQruyHs_Jezho&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: 2000px 2000px; */
 }
