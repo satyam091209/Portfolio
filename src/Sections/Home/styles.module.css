@@ -6,7 +6,9 @@
     flex-direction: column;
     justify-content: center;
     font-family: var(--font-sans);
+   
 }
+
 
 .greet {
     font-family: var(--font-mono);
@@ -47,4 +49,11 @@
 
 .btn:hover {
     background: var(--green-tint);
+}
+
+
+@media screen and (max-width: 1246px) {
+   .home_section {
+       margin-top: 30%;
+   }
 }

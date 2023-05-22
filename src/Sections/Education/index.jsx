@@ -19,6 +19,7 @@ function Experience() {
 									? `${styles.tab} ${styles.active_tab}`
 									: `${styles.tab}`
 							}
+							
 							onClick={() => setCurrentIndex(index)}
 						>
 							{experience.company}
